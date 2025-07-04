@@ -1,7 +1,5 @@
 # Time Series Forecasting
 
-# Time Series Forecasting
-
 ![Preview of Results](result.png)
 
 ## Overview
