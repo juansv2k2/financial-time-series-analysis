@@ -48,8 +48,8 @@ pip install pandas numpy matplotlib seaborn statsmodels scikit-learn pmdarima
 
 ## Author
 
-[Your Name]
+Juan S. Vassallo
 
 ## License
 
-This project is licensed under the MIT License.
+This project is for educational purposes only.
